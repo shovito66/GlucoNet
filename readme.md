@@ -100,7 +100,7 @@ Goto the `inference` directory and run the following command
 
 # Contact
 >For any questions or issues, please contact 
-* ***Ebrahim Farahmand*** at [a.mamun@asu.edu](efarahma@asu.edu)
+* ***Ebrahim Farahmand*** at [efarahma@asu.edu](efarahma@asu.edu)
 * ***[Shovito Barua Soumma](https://www.shovitobarua.com)*** at [shovito@asu.edu](shovito@asu.edu) or 
 * ***Nooshin Taheri Chatrudi*** at [ntaheric@asu.edu](ntaheric@asu.edu)
 
