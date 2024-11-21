@@ -1,0 +1,10 @@
+.DS_Store
+dataset
+data
+.spyproject
+venv
+.venv
+.idea
+**/__pycache__/
+analysis-ipynb
+*analysis-ipynb
