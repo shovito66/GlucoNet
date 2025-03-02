@@ -22,6 +22,19 @@ pip3 freeze > requirements.txt
 
 
 
+## To Cite This Work
+```
+@misc{sbsGlueconet,
+      title={Hybrid Attention Model Using Feature Decomposition and Knowledge Distillation for Glucose Forecasting}, 
+      author={Ebrahim Farahmand and Shovito Barua Soumma and Nooshin Taheri Chatrudi and Hassan Ghasemzadeh},
+      year={2024},
+      eprint={2411.10703},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2411.10703}, 
+}
+```
+
 
 ## Abstract
 The availability of continuous glucose monitors (CGMs) as over-the-counter commodities have created a unique opportunity to monitor a person’s blood glucose levels, forecast blood glucose trajectories, and provide automated interventions to prevent devastating chronic complications that
